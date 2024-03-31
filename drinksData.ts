@@ -71,7 +71,7 @@ export const drinksData = [
           { id: 1, name: "B&G", price: "N15,000", image: "/B&G.jpeg" },
           { id: 2, name: "CARLO ROSSI", price: "N15,000", image: "/carlo.jpeg" },
           { id: 3, name: "FOURTH STREET", price: "N12,000", image: "/4th.png" },
-          { id: 4, name: "S&S", price: "N25,000", image: "/S&S.png" },
+          { id: 4, name: "SILK & SPICE", price: "N25,000", image: "/S&S.png" },
           { id: 5, name: "ESCUDO ROJO", price: "N35,000", image: "/escudo.jpeg" },
           { id: 6, name: "MAVURU", price: "N12,000", image: "/MAVU.jpeg" }
         ]
@@ -116,7 +116,7 @@ export const drinksData = [
           { id: 1, name: "CIROC (NON-FLAVOURED)", price: "N55,000", image: "/ciroc2.jpeg" },
           { id: 2, name: "ABSOLUTE VODKA", price: "N40,000", image: "/absvod.webp" },
           { id: 3, name: "GREEN LEAF", price: "N15,000", image: "/gl.jpeg" },
-          { id: 4, name: "BIG SMIRNOFF", price: "N12,000", image: "/bvo.jpeg" },
+          { id: 4, name: "BIG SMIRNOFF", price: "N12,000", image: "/vodsm.webp" },
           { id: 5, name: "SMALL SMIRNOFF VODKA", price: "N3,000", image: "/smallv.webp" },
           { id: 6, name: "GORDONS", price: "N15,000", image: "/gord.jpeg" }
         ]
@@ -181,7 +181,7 @@ export const drinksData = [
       },
       {
         id: 12,
-        category: "EDIBLE",
+        category: "EDIBLES",
         drinks: [
           { id: 0, name: "LIVE CHICKEN PEPPER SOUP", price: "N15,000", image: "/livchick.jpeg" },
           { id: 1, name: "LIVE CHICKEN VEGETABLE", price: "N15,000", image: "/chive.jpeg" },
