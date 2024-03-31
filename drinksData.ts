@@ -55,7 +55,7 @@ export const drinksData = [
         category: "SOFT DRINK/MIXERS",
         drinks: [
           { id: 0, name: "WATER", price: "N500", image: "/wt.png" },
-          { id: 1, name: "MINERAL", price: "N500", image: "/minerals.jpeg" },
+         
           { id: 2, name: "MALT", price: "N700", image: "/malt.png" },
           { id: 3, name: "FAYROUZ", price: "N700", image: "/fayrouz-pet-x12.jpg" },
           { id: 4, name: "COKE", price: "N500", image: "/coke.png" },
@@ -155,7 +155,9 @@ export const drinksData = [
           { id: 3, name: "ODOGWU BITTERS", price: "N2,000", image: "/odbit.jpeg" },
           { id: 4, name: "D GENERAL BITTER", price: "N2,000", image: "/dgenbit.jpeg" },
           { id: 5, name: "ACTION BITTERS", price: "N2,000", image: "/actb.jpg" },
-          { id: 6, name: "ACE BITTERS", price: "N2,000", image: "/acebit.jpeg" }
+            { id: 6, name: "ACE BITTERS", price: "N2,000", image: "/acebit.jpeg" },
+            { id: 7, name: "FEKOMI BITTERS", price: "N2,000", image: "/fekoms.jpeg" },
+            { id: 8, name: "ORIJIN BITTERS", price: "N2,000", image: "/orbit.avif" },
         ]
       },
       {
@@ -171,7 +173,7 @@ export const drinksData = [
         id: 11,
         category: "NON ALCOHOLIC WINE",
         drinks: [
-          { id: 0, name: "MARTINELLIS", price: "N12,000", image: "/mart.webp" },
+          { id: 0, name: "MARTINELLIS", price: "N12,000", image: "/mrt.webp" },
           { id: 1, name: "CHAMDOR", price: "N8,000", image: "/chamd.jpeg" },
           { id: 2, name: "ANGEL SPARKLING WINE", price: "N8,000", image: "/angsp.jpeg" },
           { id: 3, name: "J&W", price: "N8,000", image: "/jandw.jpeg" }
@@ -189,7 +191,7 @@ export const drinksData = [
           { id: 5, name: "NKWOBI", price: "N3,000", image: "/nkw.webp" },
           { id: 6, name: "GRILLED CROAKER FISH", price: "N12,000", image: "/gcf.jpeg" },
           { id: 7, name: "CROAKER PEPPER SOUP", price: "N12,000", image: "/croak.jpeg" },
-          { id: 8, name: "SHISHA", price: "N7,000", image: "/shis.jpeg" },
+         
           { id: 9, name: "CHICKEN AND CHIPS", price: "N4,000", image: "/cchi.jpeg" },
           { id: 10, name: "COW LEG PEPPER SOUP", price: "N3,000", image: "/clps.jpeg" },
           { id: 11, name: "GOAT MEAT PEPPER SOUP", price: "N3,000", image: "/gms.jpeg" },
@@ -199,8 +201,15 @@ export const drinksData = [
           { id: 15, name: "PEPPER GIZZARD", price: "N350", image: "/smpp.jpeg" },
           { id: 16, name: "PEPPER BEEF", price: "N300", image: "/pp.jpeg" }
         ]
-      }
-     
+      },
+      {
+        id: 13,
+        category: "SMOKES",
+        drinks: [
+            { id: 8, name: "SHISHA", price: "N7,000", image: "/shis.jpeg" },
+          
+        ]
+      },
       
   ];
   
