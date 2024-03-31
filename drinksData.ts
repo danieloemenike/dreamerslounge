@@ -31,9 +31,7 @@ export const drinksData = [
       id: 1,
       category: "WHISKEY",
       drinks: [
-        { id: 0, name: "BIG CAMPARI", price: "N20,000", image: "/bc.jpeg" },
-        { id: 1, name: "MEDIUM CAMPARI", price: "N18,000", image: "/scc.jpeg" },
-        { id: 2, name: "SMALL CAMPARI", price: "N10,000", image: "/sc.jpeg" },
+        
         { id: 3, name: "BIG BEST WHISKY", price: "N10,000", image: "/bb.jpeg" },
         { id: 4, name: "SMALL BEST WHISKY", price: "N3,000", image: "/sbw.webp" },
         { id: 5, name: "JACK DANIEL", price: "N35,000", image: "/jd.webp" },
@@ -67,7 +65,7 @@ export const drinksData = [
       },
       {
         id: 3,
-        category: "RED WINE",
+        category: "WINE",
         drinks: [
           { id: 0, name: "FOUR COUSINS", price: "N15,000", image: "/fourcous.png" },
           { id: 1, name: "B&G", price: "N15,000", image: "/B&G.jpeg" },
@@ -189,8 +187,8 @@ export const drinksData = [
           { id: 3, name: "CATFISH PEPPER SOUP", price: "N12,000", image: "/cpp.jpeg" },
           { id: 4, name: "ISI EWU", price: "N8,000", image: "/isi.jpeg" },
           { id: 5, name: "NKWOBI", price: "N3,000", image: "/nkw.webp" },
-          { id: 6, name: "GRILLED CROCKER FISH", price: "N12,000", image: "/gcf.jpeg" },
-          { id: 7, name: "CROCKER PEPPER SOUP", price: "N12,000", image: "/croak.jpeg" },
+          { id: 6, name: "GRILLED CROAKER FISH", price: "N12,000", image: "/gcf.jpeg" },
+          { id: 7, name: "CROAKER PEPPER SOUP", price: "N12,000", image: "/croak.jpeg" },
           { id: 8, name: "SHISHA", price: "N7,000", image: "/shis.jpeg" },
           { id: 9, name: "CHICKEN AND CHIPS", price: "N4,000", image: "/cchi.jpeg" },
           { id: 10, name: "COW LEG PEPPER SOUP", price: "N3,000", image: "/clps.jpeg" },
