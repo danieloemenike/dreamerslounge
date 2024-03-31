@@ -97,7 +97,7 @@ export const drinksData = [
           { id: 0, name: "MOET ROSE", price: "N160,000", image: "/mr.png" },
           { id: 1, name: "MOET BRUT", price: "N130,000", image: "/mtb.jpeg" },
           { id: 2, name: "ANDRE ROSE", price: "N30,000", image: "/anr.png" },
-          { id: 3, name: "BIG SMIRNOFF VODKA", price: "N18,000", image: "/smbi.jpeg" },
+          
           { id: 4, name: "VEUVE CLIEQUOT BRUT", price: "N120,000", image: "/veu.webp" },
           { id: 5, name: "VEUVE DU VENAY", price: "N25,000", image: "/veuu.webp" },
           { id: 6, name: "BELAIRE ROSE", price: "N110,000", image: "/blr.jpeg" },
