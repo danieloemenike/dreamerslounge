@@ -117,7 +117,7 @@ export const drinksData = [
           { id: 2, name: "ABSOLUT VODKA", price: "N40,000", image: "/absvod.webp" },
           { id: 3, name: "HAPPY LEAF", price: "N15,000", image: "/hapleaf.jpeg" },
           { id: 4, name: "BIG SMIRNOFF", price: "N12,000", image: "/vodsm.webp" },
-          { id: 5, name: "SMALL SMIRNOFF VODKA", price: "N3,000", image: "/smallv.webp" },
+          { id: 5, name: "SMALL SMIRNOFF VODKA", price: "N3,000", image: "/smvodk.jpeg" },
           { id: 6, name: "GORDONS", price: "N15,000", image: "/gord.jpeg" }
         ]
       },
