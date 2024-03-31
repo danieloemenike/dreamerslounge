@@ -31,7 +31,7 @@ export default function Menu() {
       <section className='w-full h-full flex'>
         <div className='w-full h-full'>
           <div className='flex justify-center text-[3rem] w-full h-full items-center'>
-            <h2 className='font-bold '>MENU</h2>
+            <h2 className='font-bold tracking-tight'>MENU</h2>
           </div>
           <div className='w-full h-full'>
             <div className="flex flex-col md:flex-row justify-center m-4 p-4 gap-2 md:gap-4">
@@ -61,7 +61,7 @@ export default function Menu() {
               if (!selectedCategory || (selectedCategory && drinks.category === selectedCategory && filteredDrinks.length > 0)) {
                 return (
                   <div key={drinks.id}>
-                    {filteredDrinks.length > 0 && <h3 className='font-bold text-xl text-center my-12 '>{drinks.category}</h3>}
+                    {filteredDrinks.length > 0 && <h3 className='font-bold text-2xl text-center my-12 underline underline-offset-8'>{drinks.category}</h3>}
                     <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 md:mx-3 md:gap-6 mx-2 lg:mx-20'>
                       {filteredDrinks.map((drink) => (
                         <div key={drink.id} id={drink.id.toString()} className='bg-slate-900 rounded-md h-80 w-50 p-2 shadow-md shadow-slate-800'>

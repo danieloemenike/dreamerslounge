@@ -11,7 +11,7 @@ export const drinksData = [
         { id: 5, name: "BIG SMIRNOFF", price: "N1,200", image: "/smirnoff-ice.png" },
         { id: 6, name: "TROPHY STOUT", price: "N1,200", image: "/tstout.png" },
         { id: 7, name: "GUINESS SMOOTH", price: "N1,200", image: "/gs.jpg" },
-        { id: 8, name: "SMALL STOUT", price: "N1,000", image: "/stout.jpg" },
+        { id: 8, name: "SMALL STOUT", price: "N1,000", image: "/Stout.jpg" },
         { id: 9, name: "LEGEND", price: "N1,200", image: "/legend.jpeg" },
         { id: 10, name: "FLYING FISH", price: "N1,000", image: "/ff.jpeg" },
         { id: 11, name: "HERO", price: "N1,000", image: "/hero2.jpeg" },
