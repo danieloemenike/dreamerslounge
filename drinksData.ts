@@ -149,9 +149,9 @@ export const drinksData = [
         id: 9,
         category: "BITTERS",
         drinks: [
-          { id: 0, name: "BIG CAMPARI", price: "N15,000", image: "/camp.jpeg" },
-          { id: 1, name: "MEDIUM CAMPARI", price: "N12,000", image: "/bcam.jpg" },
-          { id: 2, name: "SMALL CAMPARI", price: "N5,000", image: "/smallca.webp" },
+          { id: 0, name: "BIG CAMPARI", price: "N18,000", image: "/camp.jpeg" },
+          { id: 1, name: "MEDIUM CAMPARI", price: "N15,000", image: "/bcam.jpg" },
+          { id: 2, name: "SMALL CAMPARI", price: "N10,000", image: "/smallca.webp" },
           { id: 3, name: "ODOGWU BITTERS", price: "N2,000", image: "/odbit.jpeg" },
           { id: 4, name: "D GENERAL BITTER", price: "N2,000", image: "/dgenbit.jpeg" },
           { id: 5, name: "ACTION BITTERS", price: "N2,000", image: "/actb.jpg" },
