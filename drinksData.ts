@@ -58,9 +58,9 @@ export const drinksData = [
          
           { id: 2, name: "MALT", price: "N700", image: "/malt.png" },
           { id: 3, name: "FAYROUZ", price: "N700", image: "/fayrouz-pet-x12.jpg" },
-          { id: 4, name: "COKE", price: "N500", image: "/coke.png" },
-          { id: 5, name: "FANTA", price: "N500", image: "/fanta.webp" },
-          { id: 6, name: "SPRITE", price: "N500", image: "/sprite.jpeg" }
+          { id: 4, name: "COKE", price: "N700", image: "/coke.png" },
+          { id: 5, name: "FANTA", price: "N700", image: "/fanta.webp" },
+          { id: 6, name: "SPRITE", price: "N700", image: "/sprite.jpeg" }
         ]
       },
       {
