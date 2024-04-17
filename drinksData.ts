@@ -164,7 +164,7 @@ export const drinksData = [
         id: 10,
         category: "CREAMS",
         drinks: [
-          { id: 0, name: "BARLEYS", price: "N25,000", image: "/bail.jpeg" },
+          { id: 0, name: "BAILEYS", price: "N25,000", image: "/bail.jpeg" },
           { id: 1, name: "BIG BEST CREAM", price: "N10,000", image: "/bbest.webp" },
           { id: 2, name: "SMALL BEST CREAM", price: "N3,000", image: "/smalbes.webp" }
         ]
