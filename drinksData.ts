@@ -189,7 +189,7 @@ export const drinksData = [
           { id: 3, name: "CATFISH PEPPER SOUP", price: "N12,000", image: "/cpp.jpeg" },
           { id: 4, name: "ISI EWU", price: "N8,000", image: "/isi.jpeg" },
           { id: 5, name: "NKWOBI", price: "N3,000", image: "/nkw.webp" },
-          { id: 6, name: "GRILLED CROAKER FISH", price: "N12,000", image: "/gcf.jpeg" },
+          { id: 6, name: "GRILLED CROAKER FISH", price: "N12,000 to N20,000", image: "/gcf.jpeg" },
           { id: 7, name: "CROAKER PEPPER SOUP", price: "N12,000", image: "/croak.jpeg" },
          
           { id: 9, name: "CHICKEN AND CHIPS", price: "N4,000", image: "/cchi.jpeg" },
