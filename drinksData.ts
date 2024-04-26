@@ -198,7 +198,7 @@ export const drinksData = [
           { id: 12, name: "CHICKEN PEPPER SOUP", price: "N4,000", image: "/cps.jpeg" },
           { id: 13, name: "SHAWARMA", price: "N3,000", image: "/sha.jpeg" },
           { id: 14, name: "ASUN", price: "N1,500", image: "/asun.jpeg" },
-          { id: 15, name: "PEPPER GIZZARD", price: "N500", image: "/smpp.jpeg" },
+          { id: 15, name: "PEPPER GIZZARD", price: "N600", image: "/smpp.jpeg" },
           { id: 16, name: "PEPPER BEEF", price: "N400", image: "/pp.jpeg" }
         ]
       },
