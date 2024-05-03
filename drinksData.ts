@@ -142,7 +142,7 @@ export const drinksData = [
           { id: 3, name: "CHIVITA", price: "N2,500", image: "/chiv.jpeg" },
           { id: 4, name: "EXOTIC", price: "N2,500", image: "/chiexo.webp" },
           { id: 5, name: "SMOOTHIES", price: "N2,500", image: "/smo.webp" },
-          { id: 6, name: "HEBRON YOUGHURT", price: "N800", image: "/hebyu.jpeg" }
+          { id: 6, name: "HEBRON YOUGHURT", price: "N1200", image: "/hebyu.jpeg" }
         ]
       },
       {
