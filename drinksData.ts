@@ -47,7 +47,10 @@ export const drinksData = [
         { id: 15, name: "BLACK LABEL", price: "N45,000", image: "/bl.jpeg" },
         { id: 16, name: "BLUE LABEL", price: "N550,000", image: "/bll.jpg" },
         { id: 17, name: "GLENMORANGIE 12 YEARS", price: "N70,000", image: "/gl12.jpeg" },
-        { id: 18, name: "GLENMORANGIE 10 YEARS", price: "N60,000", image: "/gl10.jpeg" }
+        { id: 18, name: "GLENMORANGIE 10 YEARS", price: "N60,000", image: "/gl10.jpeg" },
+             { id: 19, name: "DON ROYALE GIN", price: "N15,000", image: "/donroyalegin.png" },
+        { id: 20, name: "DON ROYALE BRANDY", price: "N15,000", image: "/donroyalegin.jpg" },
+        { id: 21, name: "CAPTAIN MORGAN RUM", price: "N15,000", image: "/goldcapmorgan.png" }
       ]
     },
     {
