@@ -17,6 +17,7 @@ export const drinksData = [
         { id: 11, name: "HERO", price: "N1,000", image: "/hero2.jpeg" },
         { id: 12, name: "TROPHY", price: "N1,000", image: "/trophy.webp" },
         { id: 13, name: "GOLDBERG", price: "N1,000", image: "/gold.jpeg" },
+        { id: 22, name: "GOLDBERG BLACK", price: "N1000", image: "/goldbergblack.webp" },
         { id: 14, name: "STAR", price: "N1,000", image: "/star.jpeg" },
         { id: 15, name: "LIFE", price: "N1,000", image: "/life.jpeg" },
         { id: 16, name: "GULDER", price: "N1,000", image: "/guld.jpeg" },
@@ -24,7 +25,8 @@ export const drinksData = [
         { id: 18, name: "CASTLE LITE", price: "N1,000", image: "/lite.webp" },
         { id: 19, name: "TIGER", price: "N1,000", image: "/tiger.jpeg" },
         { id: 20, name: "SMALL SMIRNOFF", price: "N800", image: "/smsm.jpeg" },
-        { id: 21, name: "STAR RADLER", price: "N800", image: "/st.jpg" }
+        { id: 21, name: "STAR RADLER", price: "N800", image: "/st.jpg" },
+       
       ]
     },
     {
@@ -63,7 +65,8 @@ export const drinksData = [
           { id: 3, name: "FAYROUZ", price: "N700", image: "/fayrouz-pet-x12.jpg" },
           { id: 4, name: "COKE", price: "N700", image: "/coke.png" },
           { id: 5, name: "FANTA", price: "N700", image: "/fanta.webp" },
-          { id: 6, name: "SPRITE", price: "N700", image: "/sprite.jpeg" }
+          { id: 6, name: "SPRITE", price: "N700", image: "/sprite.jpeg" },
+          { id: 7, name: "TONIC WATER", price: "N700", image: "/tonicwater.jpg" }
         ]
       },
       {
@@ -132,7 +135,8 @@ export const drinksData = [
           { id: 1, name: "MONSTER", price: "N2,500", image: "/mon.webp" },
           { id: 2, name: "BLACK BULLET", price: "N2,000", image: "/bbul.jpeg" },
           { id: 3, name: "AMBER", price: "N2,000", image: "/amb.jpeg" },
-          { id: 4, name: "EVIRON", price: "N2,000", image: "/environ.webp" }
+          { id: 4, name: "EVIRON", price: "N2,000", image: "/environ.webp" },
+          { id: 5, name: "CLIMAX", price: "N2,000", image: "/climax.png" }
         ]
       },
       {
@@ -202,11 +206,36 @@ export const drinksData = [
           { id: 13, name: "SHAWARMA", price: "N3,000", image: "/sha.jpeg" },
           { id: 14, name: "ASUN", price: "N2,000", image: "/asun.jpeg" },
           { id: 15, name: "PEPPER GIZZARD", price: "N500", image: "/smpp.jpeg" },
-          { id: 16, name: "PEPPER BEEF", price: "N400", image: "/pp.jpeg" }
+          { id: 16, name: "PEPPER BEEF", price: "N400", image: "/pp.jpeg" },
+          { id: 17, name: "ASSORTED GOAT MEAT PEPPERSOUP", price: "N4000", image: "/goatmeat2.jpg" },
         ]
+  },
+  {
+    id: 13,
+    category: "TAKE AWAY PACKS",
+    drinks: [
+      {
+        id: 1,
+        name: "BIG PLASTIC PACK",
+        price: "N1,500",
+        image: "/bigplastic.avif"
       },
       {
-        id: 13,
+        id: 2,
+        name: "SMALL PLASTIC PACK",
+        price: "N400",
+        image: "/smallpack.jpeg"
+      },
+      {
+        id: 3,
+        name: "BARBECUE FISH PACK",
+        price: "N1,500",
+        image: "/fishpack.jpg"
+      }
+    ]
+      },
+      {
+        id: 14,
         category: "SMOKES",
         drinks: [
             { id: 8, name: "SHISHA", price: "N7,000", image: "/shis.jpeg" },
