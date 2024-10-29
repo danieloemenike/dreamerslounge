@@ -1,10 +1,9 @@
+"use client";
 import Hero from '@/components/Hero'
 import Menu from '@/components/Menu'
 import React from 'react'
 
-type Props = {}
-
-function Home({}: Props) {
+function Home() {
   return (
     <>
       <Hero />

@@ -66,7 +66,8 @@ export const drinksData = [
           { id: 4, name: "COKE", price: "N700", image: "/coke.png" },
           { id: 5, name: "FANTA", price: "N700", image: "/fanta.webp" },
           { id: 6, name: "SPRITE", price: "N700", image: "/sprite.jpeg" },
-          { id: 7, name: "TONIC WATER", price: "N700", image: "/tonicwater.jpg" }
+          { id: 7, name: "TONIC WATER", price: "N700", image: "/tonicwater.jpg" },
+          { id: 8, name: "SCHWEPPES", price: "N700", image: "/schweppes.jpg" },
         ]
       },
       {
