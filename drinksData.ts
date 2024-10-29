@@ -144,8 +144,8 @@ export const drinksData = [
           { id: 2, name: "HOLLANDIA YOUGHURT", price: "N3,000", image: "/hy.jpeg" },
           { id: 3, name: "CHIVITA", price: "N2,500", image: "/chiv.jpeg" },
           { id: 4, name: "EXOTIC", price: "N2,500", image: "/chiexo.webp" },
-          { id: 5, name: "SMOOTHIES", price: "N2,500", image: "/smo.webp" },
-          { id: 6, name: "HEBRON YOUGHURT", price: "N1200", image: "/hebyu.jpeg" }
+          { id: 5, name: "SMOOTHIES", price: "N3,000", image: "/smo.webp" },
+          { id: 6, name: "HEBRON YOUGHURT", price: "N1500", image: "/hebyu.jpeg" }
         ]
       },
       {
@@ -186,9 +186,9 @@ export const drinksData = [
         id: 12,
         category: "EDIBLES",
         drinks: [
-          { id: 0, name: "LIVE CHICKEN PEPPER SOUP", price: "N15,000", image: "/livchick.jpeg" },
-          { id: 1, name: "LIVE CHICKEN VEGETABLE", price: "N15,000", image: "/chive.jpeg" },
-          { id: 2, name: "CATFISH BARBEQUE", price: "N12,000", image: "/barb.jpeg" },
+          { id: 0, name: "LIVE CHICKEN PEPPER SOUP", price: "N19,000", image: "/livchick.jpeg" },
+          { id: 1, name: "LIVE CHICKEN VEGETABLE", price: "N19,000", image: "/chive.jpeg" },
+          { id: 2, name: "CATFISH BARBEQUE", price: "N12,000-N15,000", image: "/barb.jpeg" },
           { id: 3, name: "CATFISH PEPPER SOUP", price: "N12,000", image: "/cpp.jpeg" },
           { id: 4, name: "ISI EWU", price: "N10,000", image: "/isi.jpeg" },
           { id: 5, name: "NKWOBI", price: "N3,000", image: "/nkw.webp" },
@@ -197,10 +197,10 @@ export const drinksData = [
          
           { id: 9, name: "CHICKEN AND CHIPS", price: "N5,000", image: "/cchi.jpeg" },
           { id: 10, name: "COW LEG PEPPER SOUP", price: "N3,000", image: "/clps.jpeg" },
-          { id: 11, name: "GOAT MEAT PEPPER SOUP", price: "N3,000", image: "/gms.jpeg" },
+          { id: 11, name: "GOAT MEAT PEPPER SOUP", price: "N4,000", image: "/gms.jpeg" },
           { id: 12, name: "CHICKEN PEPPER SOUP", price: "N5,000", image: "/cps.jpeg" },
           { id: 13, name: "SHAWARMA", price: "N3,000", image: "/sha.jpeg" },
-          { id: 14, name: "ASUN", price: "N1,500", image: "/asun.jpeg" },
+          { id: 14, name: "ASUN", price: "N2,000", image: "/asun.jpeg" },
           { id: 15, name: "PEPPER GIZZARD", price: "N500", image: "/smpp.jpeg" },
           { id: 16, name: "PEPPER BEEF", price: "N400", image: "/pp.jpeg" }
         ]
