@@ -136,7 +136,7 @@ export const drinksData = [
           { id: 1, name: "MONSTER", price: "N2,500", image: "/mon.webp" },
           { id: 2, name: "BLACK BULLET", price: "N2,000", image: "/bbul.jpeg" },
           { id: 3, name: "AMBER", price: "N2,000", image: "/amb.jpeg" },
-          { id: 4, name: "EVIRON", price: "N2,000", image: "/environ.webp" },
+          { id: 4, name: "EVIRON", price: "N2,500", image: "/environ.webp" },
           { id: 5, name: "CLIMAX", price: "N2,000", image: "/climax.png" }
         ]
       },
