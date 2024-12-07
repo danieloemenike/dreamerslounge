@@ -3,7 +3,7 @@ export const drinksData = [
       id: 0,
       category: "BEER / STOUT",
       drinks: [
-        { id: 0, name: "HEINEKEN", price: "N1,500", image: "/hein.jpg" },
+        { id: 0, name: "HEINEKEN", price: "N1,00 to N1,500", image: "/hein.jpg" },
         { id: 1, name: "BIG STOUT", price: "N1,700", image: "/bigstout.webp" },
         { id: 2, name: "BUDWEISER", price: "N1,500", image: "/budbig.avif" },
         { id: 3, name: "ORIJIN BEER", price: "N1,200", image: "/Orijin-Beer.webp" },
