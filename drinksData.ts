@@ -191,8 +191,8 @@ export const drinksData = [
         id: 12,
         category: "EDIBLES",
         drinks: [
-          { id: 0, name: "LIVE CHICKEN PEPPER SOUP", price: "N19,000", image: "/livchick.jpeg" },
-          { id: 1, name: "LIVE CHICKEN VEGETABLE", price: "N19,000", image: "/chive.jpeg" },
+          { id: 0, name: "LIVE CHICKEN PEPPER SOUP", price: "N20,000", image: "/livchick.jpeg" },
+          { id: 1, name: "LIVE CHICKEN VEGETABLE", price: "N20,000", image: "/chive.jpeg" },
           { id: 2, name: "CATFISH BARBEQUE", price: "N12,000 to N15,000", image: "/barb.jpeg" },
           { id: 3, name: "CATFISH PEPPER SOUP", price: "N12,000 to N15,000", image: "/cpp.jpeg" },
           { id: 4, name: "ISI EWU", price: "N12,000 to N20,000", image: "/isi.jpeg" },
