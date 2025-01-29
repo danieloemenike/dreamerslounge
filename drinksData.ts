@@ -50,9 +50,9 @@ export const drinksData = [
         { id: 16, name: "BLUE LABEL", price: "N550,000", image: "/bll.jpg" },
         { id: 17, name: "GLENMORANGIE 12 YEARS", price: "N70,000", image: "/gl12.jpeg" },
         { id: 18, name: "GLENMORANGIE 10 YEARS", price: "N60,000", image: "/gl10.jpeg" },
-             { id: 19, name: "DON ROYALE GIN", price: "N15,000", image: "/donroyalegin.png" },
-        { id: 20, name: "DON ROYALE BRANDY", price: "N15,000", image: "/donroyalegin.jpg" },
-        { id: 21, name: "CAPTAIN MORGAN RUM", price: "N15,000", image: "/goldcapmorgan.png" }
+             { id: 19, name: "DON ROYALE GIN", price: "N20,000", image: "/donroyalegin.png" },
+        { id: 20, name: "DON ROYALE BRANDY", price: "N20,000", image: "/donroyalegin.jpg" },
+        { id: 21, name: "CAPTAIN MORGAN RUM", price: "N20,000", image: "/goldcapmorgan.png" }
       ]
     },
     {
@@ -123,9 +123,9 @@ export const drinksData = [
           { id: 1, name: "CIROC (NON-FLAVOURED)", price: "N55,000", image: "/ciroc2.jpeg" },
           { id: 2, name: "ABSOLUT VODKA", price: "N40,000", image: "/absvod.webp" },
           { id: 3, name: "HAPPY LEAF", price: "N15,000", image: "/hapleaf.jpeg" },
-          { id: 4, name: "BIG SMIRNOFF", price: "N12,000", image: "/vodsm.webp" },
+          { id: 4, name: "BIG SMIRNOFF", price: "N15,000", image: "/vodsm.webp" },
           { id: 5, name: "MEDIUM SMIRNOFF VODKA", price: "N7,500", image: "/smvodk.jpeg" },
-          { id: 6, name: "GORDONS", price: "N15,000", image: "/gord.jpeg" }
+          { id: 6, name: "GORDONS", price: "20,000", image: "/gord.jpeg" }
         ]
       },
       {
