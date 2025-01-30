@@ -1,31 +1,31 @@
-export const drinksData = [
+export const VIPDrinks = [
     {
       id: 0,
       category: "BEER / STOUT",
       drinks: [
-        { id: 0, name: "HEINEKEN", price: "N1,800", image: "/hein.jpg" },
-        { id: 1, name: "BIG STOUT", price: "N2,000", image: "/bigstout.webp" },
-        { id: 2, name: "BUDWEISER", price: "N1,800", image: "/budbig.avif" },
-        { id: 3, name: "ORIJIN BEER", price: "N1,500", image: "/Orijin-Beer.webp" },
-        { id: 4, name: "DESPERADO", price: "N1,700", image: "/desp.jpg" },
-        { id: 5, name: "BIG SMIRNOFF", price: "N1,700", image: "/smirnoff-ice.png" },
-        { id: 6, name: "TROPHY STOUT", price: "N1,500", image: "/tstout.png" },
-        { id: 7, name: "GUINNESS SMOOTH", price: "N1,500", image: "/gs.jpg" },
-        { id: 8, name: "SMALL STOUT", price: "N1,500", image: "/Stout.jpg" },
-        { id: 9, name: "LEGEND", price: "N1,500", image: "/legend.jpeg" },
-        { id: 10, name: "FLYING FISH", price: "N1,200", image: "/ff.jpeg" },
-        { id: 11, name: "HERO", price: "N1,200", image: "/hero2.jpeg" },
-        { id: 12, name: "TROPHY", price: "N1,200", image: "/trophy.webp" },
-        { id: 13, name: "GOLDBERG", price: "N1,200", image: "/gold.jpeg" },
-        { id: 22, name: "GOLDBERG BLACK", price: "N1,200", image: "/goldbergblack.webp" },
-        { id: 14, name: "STAR", price: "N1,200", image: "/star.jpeg" },
-        { id: 15, name: "LIFE", price: "N1,200", image: "/life.jpeg" },
-        { id: 16, name: "GULDER", price: "N1,200", image: "/guld.jpeg" },
-        { id: 17, name: "33", price: "N1,200", image: "/33-bottle.jpg" },
-        { id: 18, name: "CASTLE LITE", price: "N1,500", image: "/lite.webp" },
-        { id: 19, name: "TIGER", price: "N1,200", image: "/tiger.jpeg" },
-        { id: 20, name: "SMALL SMIRNOFF", price: "N1,000", image: "/smsm.jpeg" },
-        { id: 21, name: "STAR RADLER", price: "N1,000", image: "/st.jpg" },
+        { id: 0, name: "HEINEKEN", price: "N2,200", image: "/hein.jpg" },
+        { id: 1, name: "BIG STOUT", price: "N2,500", image: "/bigstout.webp" },
+        { id: 2, name: "BUDWEISER", price: "N2,200", image: "/budbig.avif" },
+        { id: 3, name: "ORIJIN BEER", price: "N2,000", image: "/Orijin-Beer.webp" },
+        { id: 4, name: "DESPERADO", price: "N2,000", image: "/desp.jpg" },
+        { id: 5, name: "BIG SMIRNOFF", price: "N2,000", image: "/smirnoff-ice.png" },
+        { id: 6, name: "TROPHY STOUT", price: "N2,000", image: "/tstout.png" },
+        { id: 7, name: "GUINNESS SMOOTH", price: "N2,000", image: "/gs.jpg" },
+        { id: 8, name: "SMALL STOUT", price: "N2,000", image: "/Stout.jpg" },
+        { id: 9, name: "LEGEND", price: "N2,000", image: "/legend.jpeg" },
+        { id: 10, name: "FLYING FISH", price: "N1,500", image: "/ff.jpeg" },
+        { id: 11, name: "HERO", price: "N1,500", image: "/hero2.jpeg" },
+        { id: 12, name: "TROPHY", price: "N1,500", image: "/trophy.webp" },
+        { id: 13, name: "GOLDBERG", price: "N1,500", image: "/gold.jpeg" },
+        { id: 22, name: "GOLDBERG BLACK", price: "N1,500", image: "/goldbergblack.webp" },
+        { id: 14, name: "STAR", price: "N1,500", image: "/star.jpeg" },
+        { id: 15, name: "LIFE", price: "N1,500", image: "/life.jpeg" },
+        { id: 16, name: "GULDER", price: "N1,500", image: "/guld.jpeg" },
+        { id: 17, name: "33", price: "N1,500", image: "/33-bottle.jpg" },
+        { id: 18, name: "CASTLE LITE", price: "N2,000", image: "/lite.webp" },
+        { id: 19, name: "TIGER", price: "N1,500", image: "/tiger.jpeg" },
+        { id: 20, name: "SMALL SMIRNOFF", price: "N1,500", image: "/smsm.jpeg" },
+        { id: 21, name: "STAR RADLER", price: "N1,500", image: "/st.jpg" },
        
       ]
     },
@@ -35,7 +35,7 @@ export const drinksData = [
       drinks: [
         
         { id: 3, name: "BIG BEST WHISKY", price: "N10,000", image: "/bb.jpeg" },
-        { id: 4, name: "SMALL BEST WHISKY", price: "N3,000", image: "/sbw.webp" },
+        { id: 4, name: "SMALL BEST WHISKY", price: "N4,000", image: "/sbw.webp" },
         { id: 5, name: "JACK DANIEL", price: "N45,000", image: "/jd.webp" },
         { id: 6, name: "JAMESON IRISH", price: "N40,000", image: "/jo.webp" },
         { id: 7, name: "JAMESON BLACK BARREL", price: "N60,000", image: "/jbb.jpeg" },
@@ -59,16 +59,15 @@ export const drinksData = [
         id: 2,
         category: "SOFT DRINK/MIXERS",
         drinks: [
-          { id: 0, name: "CWAY WATER", price: "N500", image: "/wt.png" },
-          { id: 10, name: "EVA WATER (75CL)", price: "N700", image: "/evawater.jpg" },
-         
-          { id: 2, name: "MALT", price: "N700", image: "/malt.png" },
-          { id: 3, name: "FAYROUZ", price: "N800", image: "/fayrouz-pet-x12.jpg" },
-          { id: 4, name: "COKE", price: "N800", image: "/coke.png" },
-          { id: 5, name: "FANTA", price: "N800", image: "/fanta.webp" },
-          { id: 6, name: "SPRITE", price: "N800", image: "/sprite.jpeg" },
+          { id: 0, name: "WATER", price: "N700", image: "/wt.png" },
+          { id: 10, name: "EVA WATER (75CL)", price: "N1,000", image: "/evawater.jpg" },
+          { id: 2, name: "MALT", price: "N1,000", image: "/malt.png" },
+          { id: 3, name: "FAYROUZ", price: "N1,000", image: "/fayrouz-pet-x12.jpg" },
+          { id: 4, name: "COKE", price: "N1,000", image: "/coke.png" },
+          { id: 5, name: "FANTA", price: "N1,000", image: "/fanta.webp" },
+          { id: 6, name: "SPRITE", price: "N1,000", image: "/sprite.jpeg" },
           // { id: 7, name: "TONIC WATER", price: "N700", image: "/tonicwater.jpg" },
-          { id: 8, name: "SCHWEPPES", price: "N800", image: "/schweppes.jpg" },
+          { id: 8, name: "SCHWEPPES", price: "N1,000", image: "/schweppes.jpg" },
         ]
       },
       {
@@ -120,7 +119,7 @@ export const drinksData = [
         id: 6,
         category: "VODKA",
         drinks: [
-          { id: 0, name: "CIROC (FLAVOURED)", price: "N60,000", image: "/ciroc.jpeg" },
+          { id: 0, name: "CIROC (FLAVOURED)", price: "N60,000", image: "/ciroc.jpeg" }, 
           { id: 1, name: "CIROC (NON-FLAVOURED)", price: "N55,000", image: "/ciroc2.jpeg" },
           { id: 2, name: "ABSOLUT VODKA", price: "N40,000", image: "/absvod.webp" },
           { id: 3, name: "HAPPY LEAF", price: "N15,000", image: "/hapleaf.jpeg" },
@@ -133,26 +132,26 @@ export const drinksData = [
         id: 7,
         category: "ENERGY DRINKS",
         drinks: [
-          { id: 0, name: "RED BULL", price: "N3,000", image: "/red.jpeg" },
-          { id: 1, name: "MONSTER", price: "N2,500", image: "/mon.webp" },
-          { id: 2, name: "BLACK BULLET", price: "N2,000", image: "/bbul.jpeg" },
-          { id: 3, name: "AMBER", price: "N2,000", image: "/amb.jpeg" },
-          { id: 4, name: "EVIRON", price: "N2,500", image: "/environ.webp" },
-          { id: 5, name: "CLIMAX", price: "N2,000", image: "/climax.png" },
-          { id: 6, name: "SUPER POWER", price: "N2,000", image: "/energyDrinkNew.jpeg" }
+          { id: 0, name: "RED BULL", price: "N3,500", image: "/red.jpeg" },
+          { id: 1, name: "MONSTER", price: "N3,000", image: "/mon.webp" },
+          { id: 2, name: "BLACK BULLET", price: "N2,500", image: "/bbul.jpeg" },
+          { id: 3, name: "AMBER", price: "N2,500", image: "/amb.jpeg" },
+          { id: 4, name: "EVIRON", price: "N3,000", image: "/environ.webp" },
+          { id: 5, name: "CLIMAX", price: "N2,500", image: "/climax.png" },
+          { id: 6, name: "SUPER POWER", price: "N2,500", image: "/energyDrinkNew.jpeg" }
         ]
       },
       {
         id: 8,
         category: "JUICE / SMOTHIE",
         drinks: [
-          { id: 0, name: "CRANEBERRY", price: "N10,000", image: "/cranberry.avif" },
-          { id: 1, name: "ACTIVE", price: "N2,500", image: "/acti.webp" },
-          { id: 2, name: "HOLLANDIA YOUGHURT", price: "N3,000", image: "/hy.jpeg" },
-          { id: 3, name: "CHIVITA", price: "N2,500", image: "/chiv.jpeg" },
-          { id: 4, name: "EXOTIC", price: "N2,500", image: "/chiexo.webp" },
-          { id: 5, name: "SMOOTHIES", price: "N3,000", image: "/smo.webp" },
-          { id: 6, name: "HEBRON YOUGHURT", price: "N1,800", image: "/hebyu.jpeg" }
+          { id: 0, name: "CRANEBERRY", price: "N12,000", image: "/cranberry.avif" },
+          { id: 1, name: "ACTIVE", price: "N3,000", image: "/acti.webp" },
+          { id: 2, name: "HOLLANDIA YOUGHURT", price: "N3,500", image: "/hy.jpeg" },
+          { id: 3, name: "CHIVITA", price: "N3,000", image: "/chiv.jpeg" },
+          { id: 4, name: "EXOTIC", price: "N3,000", image: "/chiexo.webp" },
+          { id: 5, name: "SMOOTHIES", price: "N3,500", image: "/smo.webp" },
+          { id: 6, name: "HEBRON YOUGHURT", price: "N2,000", image: "/hebyu.jpeg" }
         ]
       },
       {
@@ -162,12 +161,12 @@ export const drinksData = [
           { id: 0, name: "BIG CAMPARI", price: "N24,000", image: "/camp.jpeg" },
           { id: 1, name: "MEDIUM CAMPARI", price: "N19,000", image: "/bcam.jpg" },
           { id: 2, name: "SMALL CAMPARI", price: "N10,000", image: "/smallca.webp" },
-          { id: 3, name: "ODOGWU BITTERS", price: "N2,000", image: "/odbit.jpeg" },
-          { id: 4, name: "D GENERAL BITTER", price: "N2,000", image: "/dgenbit.jpeg" },
-          { id: 5, name: "ACTION BITTERS", price: "N2,000", image: "/actb.jpg" },
-            { id: 6, name: "ACE BITTERS", price: "N2,000", image: "/acebit.jpeg" },
-            { id: 7, name: "FEKOMI BITTERS", price: "N2,000", image: "/fekoms.jpeg" },
-            { id: 8, name: "ORIJIN BITTERS", price: "N2,000", image: "/orbit.avif" },
+          { id: 3, name: "ODOGWU BITTERS", price: "N2,500", image: "/odbit.jpeg" },
+          { id: 4, name: "D GENERAL BITTER", price: "N2,500", image: "/dgenbit.jpeg" },
+          { id: 5, name: "ACTION BITTERS", price: "N2,500", image: "/actb.jpg" },
+            { id: 6, name: "ACE BITTERS", price: "N2,500", image: "/acebit.jpeg" },
+            { id: 7, name: "FEKOMI BITTERS", price: "N2,500", image: "/fekoms.jpeg" },
+            { id: 8, name: "ORIJIN BITTERS", price: "N2,500", image: "/orbit.avif" },
         ]
       },
       {
@@ -176,7 +175,7 @@ export const drinksData = [
         drinks: [
           { id: 0, name: "BAILEYS", price: "N25,000", image: "/bail.jpeg" },
           { id: 1, name: "BIG BEST CREAM", price: "N10,000", image: "/bbest.webp" },
-          { id: 2, name: "SMALL BEST CREAM", price: "N3,000", image: "/smalbes.webp" }
+          { id: 2, name: "SMALL BEST CREAM", price: "N4,000", image: "/smalbes.webp" }
         ]
       },
       {
