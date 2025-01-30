@@ -62,7 +62,7 @@ export const drinksData = [
           { id: 0, name: "CWAY WATER", price: "N500", image: "/wt.png" },
           { id: 10, name: "EVA WATER (75CL)", price: "N700", image: "/evawater.jpg" },
          
-          { id: 2, name: "MALT", price: "N700", image: "/malt.png" },
+          { id: 2, name: "MALT", price: "N800", image: "/malt.png" },
           { id: 3, name: "FAYROUZ", price: "N800", image: "/fayrouz-pet-x12.jpg" },
           { id: 4, name: "COKE", price: "N800", image: "/coke.png" },
           { id: 5, name: "FANTA", price: "N800", image: "/fanta.webp" },
