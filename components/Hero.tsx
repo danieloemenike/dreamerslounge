@@ -16,11 +16,11 @@ function Hero({}: Props) {
                       </h2>
                   </div>
                   <div className='flex items-start text-[1rem]'>
-                      <h2 className=' font-medium text-amber-500'>Lets Discover Your Taste</h2>
+                      <h2 className=' font-medium text-violet-300'>Lets Discover Your Taste</h2>
                   </div>
               </div>
               <div className='h-[60vh] md:h-dvh w-full mb-4 my-2 px-4 md:my-8 flex items-center justify-center'>
-                  <Image src="/hero.jpg" alt="model" height={1400} width={1000} className='rounded-full border-white border-4 object-cover mx-4' priority />
+                  <Image src="/hero.jpg" alt="model" height={800} width={800} className='rounded-full border-white border-4 object-cover mx-4' priority />
               </div>
       </section>
       </>

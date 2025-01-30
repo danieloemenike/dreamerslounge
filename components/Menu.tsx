@@ -31,7 +31,7 @@ export default function Menu() {
       <section className='w-full h-full flex'>
         <div className='w-full h-full'>
           <div className='flex justify-center text-[3rem] w-full h-full items-center'>
-            <h2 className='font-bold tracking-tight'>MENU</h2>
+            <h2 className='font-bold tracking-tight'>REGULAR MENU</h2>
           </div>
           <div className='w-full h-full'>
             <div className="flex flex-col md:flex-row justify-center m-4 p-4 gap-2 md:gap-4">
@@ -64,12 +64,12 @@ export default function Menu() {
                     {filteredDrinks.length > 0 && <h3 className='font-bold text-2xl text-center my-12 underline underline-offset-8'>{drinks.category}</h3>}
                     <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 md:mx-3 md:gap-6 mx-2 lg:mx-20'>
                       {filteredDrinks.map((drink) => (
-                        <div key={drink.id} id={drink.id.toString()} className='bg-slate-900 rounded-md h-80 w-50 p-2 shadow-md shadow-slate-800'>
+                        <div key={drink.id} id={drink.id.toString()} className=' rounded-md h-80 w-50 p-2 shadow shadow-violet-700'>
                           <div className='h-60 w-full bg-white object-contain flex items-center justify-center overflow-hidden rounded-t-lg mb-2'>
                             <Image src={ drink.image } alt="drinks" width={ 290 } height={ 150} className='object-contain rounded-lg' loading='lazy'/>
                           </div>
                           <div className='w-full flex justify-center items-center  h-[17%] mt-3'>
-                            <h2 className='font-medium text-base text-amber-500'>{ drink.name }: <span className='text-white'>{ drink.price}</span></h2>
+                            <h2 className='font-medium text-base text-violet-200'>{ drink.name }: <span className='text-white font-normal'>{ drink.price}</span></h2>
                           </div>
                         </div>
                       ))}
