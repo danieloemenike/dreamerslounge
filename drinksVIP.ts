@@ -194,8 +194,8 @@ export const VIPDrinks = [
         drinks: [
           { id: 0, name: "LIVE CHICKEN PEPPER SOUP", price: "N20,000", image: "/livchick.jpeg" },
           { id: 1, name: "LIVE CHICKEN VEGETABLE", price: "N20,000", image: "/chive.jpeg" },
-          { id: 2, name: "CATFISH BARBEQUE", price: "N12,000 to N15,000", image: "/barb.jpeg" },
-          { id: 3, name: "CATFISH PEPPER SOUP", price: "N12,000 to N15,000", image: "/cpp.jpeg" },
+          { id: 2, name: "CATFISH BARBEQUE", price: "N15,000", image: "/barb.jpeg" },
+          { id: 3, name: "CATFISH PEPPER SOUP", price: "N15,000", image: "/cpp.jpeg" },
           { id: 4, name: "ISI EWU", price: "N12,000 to N20,000", image: "/isi.jpeg" },
           { id: 5, name: "NKWOBI", price: "N4,000", image: "/nkw.webp" },
           { id: 6, name: "GRILLED CROAKER FISH", price: "N12,000 to N20,000", image: "/gcf.jpeg" },
