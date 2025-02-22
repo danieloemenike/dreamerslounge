@@ -119,11 +119,11 @@ export const VIPDrinks = [
         id: 6,
         category: "VODKA",
         drinks: [
-          { id: 0, name: "CIROC (FLAVOURED)", price: "N60,000", image: "/ciroc.jpeg" }, 
-          { id: 1, name: "CIROC (NON-FLAVOURED)", price: "N55,000", image: "/ciroc2.jpeg" },
-          { id: 2, name: "ABSOLUT VODKA", price: "N40,000", image: "/absvod.webp" },
-          { id: 3, name: "HAPPY LEAF", price: "N15,000", image: "/hapleaf.jpeg" },
-          { id: 4, name: "BIG SMIRNOFF", price: "N15,000", image: "/vodsm.webp" },
+          { id: 0, name: "CIROC (FLAVOURED)", price: "N65,000", image: "/ciroc.jpeg" }, 
+          { id: 1, name: "CIROC (NON-FLAVOURED)", price: "60,000", image: "/ciroc2.jpeg" },
+          { id: 2, name: "ABSOLUT VODKA", price: "N45,000", image: "/absvod.webp" },
+          { id: 3, name: "HAPPY LEAF", price: "N20,000", image: "/hapleaf.jpeg" },
+          { id: 4, name: "BIG SMIRNOFF", price: "N20,000", image: "/vodsm.webp" },
           { id: 5, name: "MEDIUM SMIRNOFF VODKA", price: "N7,500", image: "/smvodk.jpeg" },
           { id: 6, name: "GORDONS", price: "20,000", image: "/gord.jpeg" }
         ]
