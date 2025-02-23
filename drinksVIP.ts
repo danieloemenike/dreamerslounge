@@ -28,7 +28,16 @@ export const VIPDrinks = [
         { id: 21, name: "STAR RADLER", price: "N1,500", image: "/st.jpg" },
        
       ]
-    },
+  },
+  {
+    id: 111,
+    category: "TEQUILA",
+    drinks: [
+      
+      { id: 3, name: "OLMECA TEQUILLA BLANCO", price: "N50,000", image: "/olmeca_tequila.jpeg" },
+      { id: 4, name: "SIERRA TEQUILA SILVER", price: "N45,000", image: "/Sierra-silver.png" },
+    ]
+  },
     {
       id: 1,
       category: "WHISKEY",
@@ -119,6 +128,7 @@ export const VIPDrinks = [
         id: 6,
         category: "VODKA",
         drinks: [
+          { id: 110, name: "BACARDI Carta Blanca White Rum", price: "N40,000", image: "/barcadi.jpeg" },
           { id: 0, name: "CIROC (FLAVOURED)", price: "N65,000", image: "/ciroc.jpeg" }, 
           { id: 1, name: "CIROC (NON-FLAVOURED)", price: "60,000", image: "/ciroc2.jpeg" },
           { id: 2, name: "ABSOLUT VODKA", price: "N45,000", image: "/absvod.webp" },
