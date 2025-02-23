@@ -43,7 +43,7 @@ export const drinksData = [
       category: "WHISKEY",
       drinks: [
         
-        { id: 3, name: "BIG BEST WHISKY", price: "N10,000", image: "/bb.jpeg" },
+        { id: 3, name: "BIG BEST WHISKY", price: "N12,000", image: "/bb.jpeg" },
         { id: 4, name: "SMALL BEST WHISKY", price: "N3,000", image: "/sbw.webp" },
         { id: 5, name: "JACK DANIEL", price: "N45,000", image: "/jd.webp" },
         { id: 6, name: "JAMESON IRISH", price: "N40,000", image: "/jo.webp" },
@@ -185,7 +185,7 @@ export const drinksData = [
         category: "CREAMS",
         drinks: [
           { id: 0, name: "BAILEYS", price: "N25,000", image: "/bail.jpeg" },
-          { id: 1, name: "BIG BEST CREAM", price: "N10,000", image: "/bbest.webp" },
+          { id: 1, name: "BIG BEST CREAM", price: "N12,000", image: "/bbest.webp" },
           { id: 2, name: "SMALL BEST CREAM", price: "N3,000", image: "/smalbes.webp" }
         ]
       },
