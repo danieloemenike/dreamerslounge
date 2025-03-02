@@ -168,9 +168,9 @@ export const VIPDrinks = [
         id: 9,
         category: "BITTERS",
         drinks: [
-          { id: 0, name: "BIG CAMPARI", price: "N24,000", image: "/camp.jpeg" },
-          { id: 1, name: "MEDIUM CAMPARI", price: "N19,000", image: "/bcam.jpg" },
-          { id: 2, name: "SMALL CAMPARI", price: "N10,000", image: "/smallca.webp" },
+          { id: 0, name: "BIG CAMPARI", price: "N28,000", image: "/camp.jpeg" },
+          { id: 1, name: "MEDIUM CAMPARI", price: "N22,000", image: "/bcam.jpg" },
+          { id: 2, name: "SMALL CAMPARI", price: "N12,000", image: "/smallca.webp" },
           { id: 3, name: "ODOGWU BITTERS", price: "N2,500", image: "/odbit.jpeg" },
           { id: 4, name: "D GENERAL BITTER", price: "N2,500", image: "/dgenbit.jpeg" },
           { id: 5, name: "ACTION BITTERS", price: "N2,500", image: "/actb.jpg" },
