@@ -35,7 +35,7 @@ export const VIPDrinks = [
     drinks: [
       
       { id: 3, name: "OLMECA TEQUILLA BLANCO", price: "N50,000", image: "/olmeca_tequila.jpeg" },
-      { id: 4, name: "SIERRA TEQUILA SILVER", price: "N45,000", image: "/Sierra-silver.png" },
+      { id: 4, name: "SIERRA/ CAMINO TEQUILA SILVER", price: "N45,000", image: "/Sierra-silver.png" },
     ]
   },
     {
@@ -84,9 +84,9 @@ export const VIPDrinks = [
         category: "WINE",
         drinks: [
           { id: 0, name: "FOUR COUSINS", price: "N17,000", image: "/fourcous.png" },
-          { id: 1, name: "B&G", price: "N18,000", image: "/B&G.jpeg" },
-          { id: 2, name: "CARLO ROSSI", price: "N18,000", image: "/carlo.jpeg" },
-          { id: 3, name: "FOURTH STREET", price: "N15000", image: "/4th.png" },
+          { id: 1, name: "B&G", price: "N20,000", image: "/B&G.jpeg" },
+          { id: 2, name: "CARLO ROSSI", price: "N20,000", image: "/carlo.jpeg" },
+          { id: 3, name: "FOURTH STREET", price: "N15,000", image: "/4th.png" },
           { id: 4, name: "SILK & SPICE", price: "N25,000", image: "/S&S.png" },
           { id: 5, name: "ESCUDO ROJO", price: "N35,000", image: "/escudo.jpeg" },
           { id: 6, name: "MAVURU", price: "N12,000", image: "/MAVU.jpeg" }
@@ -168,9 +168,9 @@ export const VIPDrinks = [
         id: 9,
         category: "BITTERS",
         drinks: [
-          { id: 0, name: "BIG CAMPARI", price: "N28,000", image: "/camp.jpeg" },
-          { id: 1, name: "MEDIUM CAMPARI", price: "N22,000", image: "/bcam.jpg" },
-          { id: 2, name: "SMALL CAMPARI", price: "N12,000", image: "/smallca.webp" },
+          { id: 0, name: "BIG CAMPARI", price: "33,000", image: "/camp.jpeg" },
+          { id: 1, name: "MEDIUM CAMPARI", price: "N28,000", image: "/bcam.jpg" },
+          { id: 2, name: "SMALL CAMPARI", price: "N14,000", image: "/smallca.webp" },
           { id: 3, name: "ODOGWU BITTERS", price: "N2,500", image: "/odbit.jpeg" },
           { id: 4, name: "D GENERAL BITTER", price: "N2,500", image: "/dgenbit.jpeg" },
           { id: 5, name: "ACTION BITTERS", price: "N2,500", image: "/actb.jpg" },
@@ -193,7 +193,7 @@ export const VIPDrinks = [
         category: "NON ALCOHOLIC WINE",
         drinks: [
           { id: 0, name: "MARTINELLIS", price: "N12,000", image: "/mrt.webp" },
-          { id: 1, name: "CHAMDOR", price: "N8,000", image: "/chamd.jpeg" },
+          { id: 1, name: "CHAMDOR", price: "N12,000", image: "/chamd.jpeg" },
           { id: 2, name: "ANGEL SPARKLING WINE", price: "N8,000", image: "/angsp.jpeg" },
           { id: 3, name: "J&W", price: "N8,000", image: "/jandw.jpeg" }
         ]
