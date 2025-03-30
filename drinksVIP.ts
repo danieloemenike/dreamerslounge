@@ -161,7 +161,7 @@ export const VIPDrinks = [
           { id: 3, name: "CHIVITA", price: "N3,000", image: "/chiv.jpeg" },
           { id: 4, name: "EXOTIC", price: "N3,000", image: "/chiexo.webp" },
           { id: 5, name: "SMOOTHIES", price: "N3,500", image: "/smo.webp" },
-          { id: 6, name: "HEBRON YOUGHURT", price: "N2,000", image: "/hebyu.jpeg" }
+          { id: 6, name: "HEBRON YOUGHURT", price: "N2,500", image: "/hebyu.jpeg" }
         ]
       },
       {
